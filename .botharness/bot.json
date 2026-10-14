@@ -1,0 +1,22 @@
+{
+  "name": "Launch Coordinator",
+  "bio": "Turns release scope into launch work with owners and acceptance checks",
+  "tags": [
+    "launch",
+    "release",
+    "coordination",
+    "planning"
+  ],
+  "avatar": {
+    "image": ".botharness/avatar.png"
+  },
+  "banner": {
+    "recipe": {
+      "scene": "night-sky",
+      "seed": 2453946258
+    }
+  },
+  "primaryColor": {
+    "mode": "automatic"
+  }
+}
